@@ -1,0 +1,1410 @@
+{
+    "firstLevelDiscountPercent": "5",
+    "secondLevelDiscountPercent": "25",
+    "trainings": [
+        {
+            "name": "Первый уровень",
+            "showAdditionalProducts": true,
+            "additionalProduct": false,
+            "type": "pu",
+            "typeId": 0,
+            "active": true,
+            "payMethods": [
+                {
+                    "name": "Карта VISA/MasterCard",
+                    "type": "yamoney",
+                    "currency": "rub",
+                    "baseCost": {
+                        "cost": 24611,
+                        "description": "25 000р. - 5% = 23 750р.",
+                        "tax": "0%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 14249,
+                        "description": "13 750р.",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 14249,
+                        "description": "13 750р.",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 12953,
+                        "description": "12 500р.",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "PayPal",
+                    "type": "paypal",
+                    "currency": "usd",
+                    "baseCost": {
+                        "cost": 505,
+                        "description": "$531 - 5% = $505",
+                        "tax": "0%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 293,
+                        "description": "$293",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 293,
+                        "description": "$293",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 266,
+                        "description": "$266",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "WebMoney WMR",
+                    "type": "webmoney-r",
+                    "currency": "rub",
+                    "baseCost": {
+                        "cost": 23750,
+                        "description": "25 000р. - 5% = 23 750р.",
+                        "tax": "0,8%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 13750,
+                        "description": "13 750р.",
+                        "tax": "0,8%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 13750,
+                        "description": "13 750р.",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 12500,
+                        "description": "12 500р.",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "WebMoney WMZ",
+                    "type": "webmoney-z",
+                    "currency": "usd",
+                    "baseCost": {
+                        "cost": 505,
+                        "description": "$531 - 5% = $505",
+                        "tax": "0,8%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 293,
+                        "description": "$293",
+                        "tax": "0,8%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 293,
+                        "description": "$293",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 266,
+                        "description": "$266",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Банковский перевод по РФ",
+                    "type": "bank",
+                    "currency": "rub",
+                    "baseCost": {
+                        "cost": 23750,
+                        "description": "25 000р. - 5% = 23 750р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 13750,
+                        "description": "13 750р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 13750,
+                        "description": "13 750р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 12500,
+                        "description": "12 500р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Перевод Юнистрим/Western Union",
+                    "type": "unistream",
+                    "currency": "usd",
+                    "baseCost": {
+                        "cost": 505,
+                        "description": "$531 - 5% = $505",
+                        "tax": "6,20%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 293,
+                        "description": "$293",
+                        "tax": "6,20%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 293,
+                        "description": "$293",
+                        "tax": "6,20%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 266,
+                        "description": "$266",
+                        "tax": "6,20%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Оплата в рассрочку",
+                    "type": "paylate",
+                    "currency": "rub",
+                    "baseCost": {
+                        "cost": 25000,
+                        "description": "25 000р.",
+                        "tax": "0%"
+                    },
+                    "firstLevelIsDoneCost": null,
+                    "secondLevelIsDoneCost": null,
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                }
+            ]
+        },
+        {
+            "name": "Первый и Второй уровни",
+            "showAdditionalProducts": false,
+            "additionalProduct": false,
+            "type": "puvu",
+            "typeId": 0,
+            "active": true,
+            "payMethods": [
+                {
+                    "name": "Карта VISA/MasterCard",
+                    "type": "yamoney",
+                    "currency": "rub",
+                    "baseCost": {
+                        "cost": 85140,
+                        "description": "89 900р. - 7 740р. = 82160р.",
+                        "tax": "0%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 74777,
+                        "description": "13 750р. + 58 410р. = 72 160р.",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 64689,
+                        "description": "13 750р. + 48 675р. = 62 425р.",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 42570,
+                        "description": "41 080р.",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "PayPal",
+                    "type": "paypal",
+                    "currency": "usd",
+                    "baseCost": {
+                        "cost": 1495,
+                        "description": "$1 631 - $136,55 = $1 495",
+                        "tax": "0%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 1283,
+                        "description": "$293 + $990 = $1 283",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 1118,
+                        "description": "$293 + $825 = $1 118",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 748,
+                        "description": "$748",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "WebMoney WMR",
+                    "type": "webmoney-r",
+                    "currency": "rub",
+                    "baseCost": {
+                        "cost": 82160,
+                        "description": "89 900р. - 7 740р. = 82 160р.",
+                        "tax": "0,8%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 72160,
+                        "description": "13 750р. + 58 410р. = 72 160р.",
+                        "tax": "0,8%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 62425,
+                        "description": "13 750р. + 48 675р. = 62 425р.",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 41080,
+                        "description": "41 080р.",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "WebMoney WMZ",
+                    "type": "webmoney-z",
+                    "currency": "usd",
+                    "baseCost": {
+                        "cost": 1495,
+                        "description": "$1 631 - $136,55 = $1 495",
+                        "tax": "0,8%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 1283,
+                        "description": "$293 + $990 = $1 283",
+                        "tax": "0,8%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 1118,
+                        "description": "$293 + $825 = $1 118",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 748,
+                        "description": "$748",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Банковский перевод по РФ",
+                    "type": "bank",
+                    "currency": "rub",
+                    "baseCost": {
+                        "cost": 82160,
+                        "description": "89 900р. - 7 740р. = 82 160р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 72160,
+                        "description": "13 750р. + 58 410р. = 72 160р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 62425,
+                        "description": "13 750р. + 48 675р. = 62 425р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 41080,
+                        "description": "41 080р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Перевод Юнистрим/Western Union",
+                    "type": "unistream",
+                    "currency": "usd",
+                    "baseCost": {
+                        "cost": 1495,
+                        "description": "$1 631 - $136,55 = $1 495",
+                        "tax": "6,20%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 1283,
+                        "description": "$293 + $990 = $1 283",
+                        "tax": "6,20%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 1118,
+                        "description": "$293 + $825 = $1 118",
+                        "tax": "6,20%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 748,
+                        "description": "$748",
+                        "tax": "6,20%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Оплата в рассрочку",
+                    "type": "paylate",
+                    "currency": "rub",
+                    "baseCost": {
+                        "cost": 82160,
+                        "description": "89 900р. - 7 740р. = 82160р.",
+                        "tax": "0%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 72160,
+                        "description": "13 750р. + 58 410р. = 72 160р.",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 62425,
+                        "description": "13 750р. + 48 675р. = 62 425р.",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 41080,
+                        "description": "41 080р.",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                }
+            ]
+        },
+        {
+            "name": "Второй уровень",
+            "showAdditionalProducts": false,
+            "additionalProduct": false,
+            "type": "vu",
+            "typeId": 0,
+            "active": true,
+            "payMethods": [
+                {
+                    "name": "Карта VISA/MasterCard",
+                    "type": "yamoney",
+                    "currency": "rub",
+                    "baseCost": null,
+                    "firstLevelIsDoneCost": {
+                        "cost": 67254,
+                        "description": "64 900р.",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 50440,
+                        "description": "64 900р. - 25% = 48 675р.",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": {
+                        "cost": 33627,
+                        "description": "32 450р.",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "PayPal",
+                    "type": "paypal",
+                    "currency": "usd",
+                    "baseCost": null,
+                    "firstLevelIsDoneCost": {
+                        "cost": 1100,
+                        "description": "$1 100",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 825,
+                        "description": "$1 100 - 25% = $825",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": {
+                        "cost": 550,
+                        "description": "$550",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "WebMoney WMR",
+                    "type": "webmoney-r",
+                    "currency": "rub",
+                    "baseCost": null,
+                    "firstLevelIsDoneCost": {
+                        "cost": 64900,
+                        "description": "64 900р.",
+                        "tax": "0,8%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 48675,
+                        "description": "64 900р. - 25% = 48 675р.",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": {
+                        "cost": 32450,
+                        "description": "32 450р.",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "WebMoney WMZ",
+                    "type": "webmoney-z",
+                    "currency": "usd",
+                    "baseCost": null,
+                    "firstLevelIsDoneCost": {
+                        "cost": 1100,
+                        "description": "$1 100",
+                        "tax": "0,8%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 825,
+                        "description": "$1 100 - 25% = $825",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": {
+                        "cost": 550,
+                        "description": "$550",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Банковский перевод по РФ",
+                    "type": "bank",
+                    "currency": "rub",
+                    "baseCost": null,
+                    "firstLevelIsDoneCost": {
+                        "cost": 64900,
+                        "description": "64 900р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 48675,
+                        "description": "64 900р. - 25% = 48 675р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": {
+                        "cost": 32450,
+                        "description": "32 450р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Перевод Юнистрим/Western Union",
+                    "type": "unistream",
+                    "currency": "usd",
+                    "baseCost": null,
+                    "firstLevelIsDoneCost": {
+                        "cost": 1100,
+                        "description": "$1 100",
+                        "tax": "6,20%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 825,
+                        "description": "$1 100 - 25% = $825",
+                        "tax": "6,20%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": {
+                        "cost": 550,
+                        "description": "$550",
+                        "tax": "6,20%"
+                    },
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Оплата в рассрочку",
+                    "type": "paylate",
+                    "currency": "rub",
+                    "baseCost": null,
+                    "firstLevelIsDoneCost": {
+                        "cost": 64900,
+                        "description": "64 900р.",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": null,
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                }
+            ]
+        },
+        {
+            "name": "Абонемент все включено",
+            "showAdditionalProducts": false,
+            "additionalProduct": false,
+            "type": "abon1",
+            "typeId": 4,
+            "active": true,
+            "payMethods": [
+                {
+                    "name": "Карта VISA/MasterCard",
+                    "type": "yamoney",
+                    "currency": "rub",
+                    "baseCost": null,
+                    "firstLevelIsDoneCost": {
+                        "cost": 134508,
+                        "description": "129 800р.",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 134508,
+                        "description": "129 800р.",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "PayPal",
+                    "type": "paypal",
+                    "currency": "usd",
+                    "baseCost": null,
+                    "firstLevelIsDoneCost": {
+                        "cost": 2200,
+                        "description": "$2 200",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 2200,
+                        "description": "$2 200",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "WebMoney WMR",
+                    "type": "webmoney-r",
+                    "currency": "rub",
+                    "baseCost": null,
+                    "firstLevelIsDoneCost": {
+                        "cost": 129800,
+                        "description": "129 800р.",
+                        "tax": "0,8%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 129800,
+                        "description": "129 800р.",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "WebMoney WMZ",
+                    "type": "webmoney-z",
+                    "currency": "usd",
+                    "baseCost": null,
+                    "firstLevelIsDoneCost": {
+                        "cost": 2200,
+                        "description": "$2 200",
+                        "tax": "0,8%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 2200,
+                        "description": "$2 200",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Банковский перевод по РФ",
+                    "type": "bank",
+                    "currency": "rub",
+                    "baseCost": null,
+                    "firstLevelIsDoneCost": {
+                        "cost": 129800,
+                        "description": "129 800р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 129800,
+                        "description": "129 800р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Перевод Юнистрим/Western Union",
+                    "type": "unistream",
+                    "currency": "usd",
+                    "baseCost": null,
+                    "firstLevelIsDoneCost": {
+                        "cost": 2200,
+                        "description": "$2 200",
+                        "tax": "6,20%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 2200,
+                        "description": "$2 200",
+                        "tax": "6,20%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Оплата в рассрочку",
+                    "type": "paylate",
+                    "currency": "rub",
+                    "baseCost": null,
+                    "firstLevelIsDoneCost": {
+                        "cost": 129800,
+                        "description": "129 800р.",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 129800,
+                        "description": "129 800р.",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                }
+            ]
+        },
+        {
+            "name": "Абонемент 4 темы",
+            "showAdditionalProducts": false,
+            "additionalProduct": false,
+            "type": "abon4",
+            "typeId": 9,
+            "active": true,
+            "payMethods": [
+                {
+                    "name": "Карта VISA/MasterCard",
+                    "type": "yamoney",
+                    "currency": "rub",
+                    "baseCost": null,
+                    "firstLevelIsDoneCost": {
+                        "cost": 41969,
+                        "description": "40 500р.",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 41969,
+                        "description": "40 500р.",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "PayPal",
+                    "type": "paypal",
+                    "currency": "usd",
+                    "baseCost": null,
+                    "firstLevelIsDoneCost": {
+                        "cost": 690,
+                        "description": "$690",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 690,
+                        "description": "$690",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "WebMoney WMR",
+                    "type": "webmoney-r",
+                    "currency": "rub",
+                    "baseCost": null,
+                    "firstLevelIsDoneCost": {
+                        "cost": 40500,
+                        "description": "40 500р.",
+                        "tax": "0,8%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 40500,
+                        "description": "40 500р.",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "WebMoney WMZ",
+                    "type": "webmoney-z",
+                    "currency": "usd",
+                    "baseCost": null,
+                    "firstLevelIsDoneCost": {
+                        "cost": 690,
+                        "description": "$690",
+                        "tax": "0,8%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 690,
+                        "description": "$690",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Банковский перевод по РФ",
+                    "type": "bank",
+                    "currency": "rub",
+                    "baseCost": null,
+                    "firstLevelIsDoneCost": {
+                        "cost": 40500,
+                        "description": "40 500р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 40500,
+                        "description": "40 500р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Перевод Юнистрим/Western Union",
+                    "type": "unistream",
+                    "currency": "usd",
+                    "baseCost": null,
+                    "firstLevelIsDoneCost": {
+                        "cost": 690,
+                        "description": "$690",
+                        "tax": "6,20%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 690,
+                        "description": "$690",
+                        "tax": "6,20%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Оплата в рассрочку",
+                    "type": "paylate",
+                    "currency": "rub",
+                    "baseCost": null,
+                    "firstLevelIsDoneCost": {
+                        "cost": 40500,
+                        "description": "40 500р.",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 40500,
+                        "description": "40 500р.",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                }
+            ]
+        },
+        {
+            "name": "Тематические занятия",
+            "showAdditionalProducts": true,
+            "additionalProduct": false,
+            "type": "tm",
+            "typeId": 14,
+            "active": true,
+            "payMethods": [
+                {
+                    "name": "Карта VISA/MasterCard",
+                    "type": "yamoney",
+                    "currency": "rub",
+                    "baseCost": {
+                        "cost": 2591,
+                        "description": "2 500р.",
+                        "tax": "0%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 2591,
+                        "description": "2 500р.",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 2591,
+                        "description": "2 500р.",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "PayPal",
+                    "type": "paypal",
+                    "currency": "usd",
+                    "baseCost": {
+                        "cost": 45,
+                        "description": "$45",
+                        "tax": "0%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 45,
+                        "description": "$45",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 45,
+                        "description": "$45",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "WebMoney WMR",
+                    "type": "webmoney-r",
+                    "currency": "rub",
+                    "baseCost": {
+                        "cost": 2500,
+                        "description": "2 500р.",
+                        "tax": "0,8%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 2500,
+                        "description": "2 500р.",
+                        "tax": "0,8%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 2500,
+                        "description": "2 500р.",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "WebMoney WMZ",
+                    "type": "webmoney-z",
+                    "currency": "usd",
+                    "baseCost": {
+                        "cost": 45,
+                        "description": "$45",
+                        "tax": "0,8%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 45,
+                        "description": "$45",
+                        "tax": "0,8%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 45,
+                        "description": "$45",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Банковский перевод по РФ",
+                    "type": "bank",
+                    "currency": "rub",
+                    "baseCost": {
+                        "cost": 2500,
+                        "description": "2 500р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 2500,
+                        "description": "2 500р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 2500,
+                        "description": "2 500р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Перевод Юнистрим/Western Union",
+                    "type": "unistream",
+                    "currency": "usd",
+                    "baseCost": {
+                        "cost": 45,
+                        "description": "$45",
+                        "tax": "6,20%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 45,
+                        "description": "$45",
+                        "tax": "6,20%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 45,
+                        "description": "$45",
+                        "tax": "6,20%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Оплата в рассрочку",
+                    "type": "paylate",
+                    "currency": "rub",
+                    "baseCost": {
+                        "cost": 2500,
+                        "description": "2 500 р.",
+                        "tax": "0%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 2500,
+                        "description": "2 500 р.",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 2500,
+                        "description": "2 500 р.",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepBaseCost": null,
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                }
+            ]
+        },
+        {
+            "name": "ТЗ Звуковой вектор",
+            "showAdditionalProducts": true,
+            "additionalProduct": false,
+            "type": "tm",
+            "typeId": 6,
+            "active": true,
+            "payMethods": [
+                {
+                    "name": "Карта VISA/MasterCard",
+                    "type": "yamoney",
+                    "currency": "rub",
+                    "baseCost": {
+                        "cost": 11399,
+                        "description": "11 000р.",
+                        "tax": "0%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 11399,
+                        "description": "11 000р.",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 11399,
+                        "description": "11 000р.",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 11399,
+                        "description": "11 000р.",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "PayPal",
+                    "type": "paypal",
+                    "currency": "usd",
+                    "baseCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "0%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "WebMoney WMR",
+                    "type": "webmoney-r",
+                    "currency": "rub",
+                    "baseCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "0,8%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "0,8%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "WebMoney WMZ",
+                    "type": "webmoney-z",
+                    "currency": "usd",
+                    "baseCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "0,8%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "0,8%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Банковский перевод по РФ",
+                    "type": "bank",
+                    "currency": "rub",
+                    "baseCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Перевод Юнистрим/Western Union",
+                    "type": "unistream",
+                    "currency": "usd",
+                    "baseCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "6,20%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "6,20%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "6,20%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "6,20%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Оплата в рассрочку",
+                    "type": "paylate",
+                    "currency": "rub",
+                    "baseCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "0%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                }
+            ]
+        },
+        {
+            "name": "ТЗ Смешение векторов",
+            "showAdditionalProducts": true,
+            "additionalProduct": false,
+            "type": "tm",
+            "typeId": 11,
+            "active": true,
+            "payMethods": [
+                {
+                    "name": "Карта VISA/MasterCard",
+                    "type": "yamoney",
+                    "currency": "rub",
+                    "baseCost": {
+                        "cost": 11399,
+                        "description": "11 000р.",
+                        "tax": "0%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 11399,
+                        "description": "11 000р.",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 11399,
+                        "description": "11 000р.",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 11399,
+                        "description": "11 000р.",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "PayPal",
+                    "type": "paypal",
+                    "currency": "usd",
+                    "baseCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "0%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "WebMoney WMR",
+                    "type": "webmoney-r",
+                    "currency": "rub",
+                    "baseCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "0,8%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "0,8%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "WebMoney WMZ",
+                    "type": "webmoney-z",
+                    "currency": "usd",
+                    "baseCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "0,8%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "0,8%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "0,8%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Банковский перевод по РФ",
+                    "type": "bank",
+                    "currency": "rub",
+                    "baseCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "Комиссию платежа установит ваш банк"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Перевод Юнистрим/Western Union",
+                    "type": "unistream",
+                    "currency": "usd",
+                    "baseCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "6,20%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "6,20%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "6,20%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 185,
+                        "description": "$185",
+                        "tax": "6,20%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                },
+                {
+                    "name": "Оплата в рассрочку",
+                    "type": "paylate",
+                    "currency": "rub",
+                    "baseCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "0%"
+                    },
+                    "firstLevelIsDoneCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "0%"
+                    },
+                    "secondLevelIsDoneCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepBaseCost": {
+                        "cost": 11000,
+                        "description": "11 000р.",
+                        "tax": "0%"
+                    },
+                    "payByTwoStepFirstLevelCost": null,
+                    "payByTwoStepSecondLevelCost": null
+                }
+            ]
+        }
+    ]
+}
