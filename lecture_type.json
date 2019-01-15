@@ -1,5 +1,5 @@
 {
   "free" : false,
   "headerText" : "В настоящее время трансляции нет. Дождитесь 14 февраля 21:45 (мск)",
-  "beginTimeMillis" : 1550169900000
+  "beginTimeSeconds" : 1550169900
 }
