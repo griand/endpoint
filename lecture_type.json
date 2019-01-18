@@ -1,6 +1,5 @@
 {
-  "free" : true,
+  "free" : false,
   "headerText" : "Бесплатная онлайн-лекция состоится 14 февраля 21:45 (мск)",
-  "beginTimeSeconds" : 1547777685
+  "beginTimeSeconds" : 1550169900
 }
-
