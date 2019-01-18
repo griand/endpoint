@@ -1,20 +1,20 @@
 {
   "screenDataList": [
     {
-      "slideUrl": "",
+      "slideUrl": "https://github.com/griand/endpoint/blob/master/slide_1.jpg",
       "regForm": false
     },
     {
-      "slideUrl": "",
+      "slideUrl": "https://github.com/griand/endpoint/blob/master/slide_2.jpg",
       "regForm": false
     },
     {
-      "slideUrl": "",
+      "slideUrl": "https://github.com/griand/endpoint/blob/master/slide_3.jpg",
       "regForm": false
     },
     {
-      "slideUrl": "",
-      "regForm": false
+      "slideUrl": "https://github.com/griand/endpoint/blob/master/slide_4.jpg",
+      "regForm": true
     }
   ]
 }
