@@ -1,19 +1,19 @@
 {
   "screenDataList": [
     {
-      "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_1.jpg",
+      "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_1.jpeg",
       "regForm": false
     },
     {
-      "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_2.jpg",
+      "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_2.jpeg",
       "regForm": false
     },
     {
-      "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_3.jpg",
+      "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_3.jpeg",
       "regForm": false
     },
     {
-      "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_4.jpg",
+      "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_4.jpeg",
       "regForm": true
     }
   ]
