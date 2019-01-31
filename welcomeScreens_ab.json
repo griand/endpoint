@@ -20,37 +20,37 @@
     ],
     "group_b": [
       {
-        "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_1.jpg",
+        "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_b_1.jpg",
         "regForm": false
       },
       {
-        "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_2.jpg",
+        "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_b_2.jpg",
         "regForm": false
       },
       {
-        "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_3.jpg",
+        "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_b_3.jpg",
         "regForm": false
       },
       {
-        "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_4.jpg",
+        "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_b_4.jpg",
         "regForm": true
       }
     ],
     "group_c": [
       {
-        "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_1.jpg",
+        "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_c_1.jpg",
         "regForm": false
       },
       {
-        "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_2.jpg",
+        "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_c_2.jpg",
         "regForm": false
       },
       {
-        "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_3.jpg",
+        "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_c_3.jpg",
         "regForm": false
       },
       {
-        "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_4.jpg",
+        "slideUrl": "https://raw.githubusercontent.com/griand/endpoint/master/slide_c_4.jpg",
         "regForm": true
       }
     ]
