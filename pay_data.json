@@ -378,11 +378,7 @@
                         "description": "13 750р. + 48 675р. = 62 425р.",
                         "tax": "0%"
                     },
-                    "payByTwoStepBaseCost": {
-                        "cost": 41080,
-                        "description": "41 080р.",
-                        "tax": "0%"
-                    },
+                    "payByTwoStepBaseCost": null,
                     "payByTwoStepFirstLevelCost": null,
                     "payByTwoStepSecondLevelCost": null
                 }
@@ -1009,7 +1005,7 @@
             ]
         },
         {
-            "name": "ТЗ Звуковой вектор",
+            "name": "ТЗ Женская сексуальность",
             "showAdditionalProducts": true,
             "additionalProduct": false,
             "type": "tm",
@@ -1197,11 +1193,7 @@
                         "description": "11 000р.",
                         "tax": "0%"
                     },
-                    "payByTwoStepBaseCost": {
-                        "cost": 11000,
-                        "description": "11 000р.",
-                        "tax": "0%"
-                    },
+                    "payByTwoStepBaseCost": null,
                     "payByTwoStepFirstLevelCost": null,
                     "payByTwoStepSecondLevelCost": null
                 }
@@ -1396,11 +1388,7 @@
                         "description": "11 000р.",
                         "tax": "0%"
                     },
-                    "payByTwoStepBaseCost": {
-                        "cost": 11000,
-                        "description": "11 000р.",
-                        "tax": "0%"
-                    },
+                    "payByTwoStepBaseCost": null,
                     "payByTwoStepFirstLevelCost": null,
                     "payByTwoStepSecondLevelCost": null
                 }
