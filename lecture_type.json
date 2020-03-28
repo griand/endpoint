@@ -1,5 +1,5 @@
 {
-  "free" : true,
-  "headerText" : "Бесплатная лекция состоится 27 марта 21:00 (мск)",
-  "beginTimeSeconds" : 1585332000
+  "free" : false,
+  "headerText" : "Бесплатная лекция состоится 31 марта 21:00 (мск)",
+  "beginTimeSeconds" : 1585677600
 }
