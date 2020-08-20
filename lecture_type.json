@@ -1,5 +1,5 @@
 {
-  "free" : false,
+  "free" : true,
   "headerText" : "Бесплатная онлайн-лекция состоится 20 августа 21:00 (мск)",
   "beginTimeSeconds" : 1597946400,
   "room" : "YBRoom"
