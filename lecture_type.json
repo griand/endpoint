@@ -1,6 +1,6 @@
 {
   "free" : true,
-  "headerText" : "Бесплатная онлайн-лекция состоится 20 августа 21:00 (мск)",
-  "beginTimeSeconds" : 1597946400,
-  "room" : "YBRoom"
+  "headerText" : "Повтор лекции по кожному вектору состоится 21 августа 21:00 (мск)",
+  "beginTimeSeconds" : 1598032800,
+  "room" : "RePlay2"
 }
