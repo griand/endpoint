@@ -1,6 +1,6 @@
 {
-  "free" : false,
+  "free" : true,
   "headerText" : "Бесплатная онлайн-лекция состоится 8 ноября 21:00 (мск)",
   "beginTimeSeconds" : 1604858400,
-  "room" : "RePlay1"
+  "room" : "YBRoom"
 }
