@@ -1,6 +1,6 @@
 {
-  "free" : true,
-  "headerText" : "Бесплатная онлайн-лекция состоится 22 апреля 21:00 (мск)",
+  "free" : false,
+  "headerText" : "",
   "beginTimeSeconds" : 1619114400,
   "room" : "YBRoom"
 }
