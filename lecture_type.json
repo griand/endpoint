@@ -1,5 +1,5 @@
 {
-  "free" : true,
+  "free" : false,
   "headerText" : "",
   "beginTimeSeconds" : 1643310000,
   "room" : "RePlay1"
